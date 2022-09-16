@@ -54,6 +54,7 @@ public class EditLead {
 		} else {
 			System.out.println("changed name is not confirmed ");
 		}
+			driver.close();
 	}
 
 }
